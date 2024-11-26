@@ -23,4 +23,6 @@ Having a disciplined, flexible and collaborative process - an effective MLOps sy
 - Model evaluation techniques that ensure reproducibility and enterprise-level governance
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson1/01_EDA.ipynb) [01_EDA.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson1/01_EDA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson1/02_fetch_data.ipynb) [02_fetch_data.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson1/02_fetch_data.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson1/02_EDA.ipynb) [02_EDA.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson1/02_EDA.ipynb)
