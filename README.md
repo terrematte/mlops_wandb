@@ -23,6 +23,9 @@ Having a disciplined, flexible and collaborative process - an effective MLOps sy
 - Model evaluation techniques that ensure reproducibility and enterprise-level governance
 
 
+![image](https://github.com/user-attachments/assets/865e3754-c126-4881-8b8a-74f1eba20c39)
+
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/01_fetch_data.ipynb) [01_fetch_data.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/01_fetch_data.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/02_EDA.ipynb) [02_EDA.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/02_EDA.ipynb)
@@ -36,3 +39,7 @@ Having a disciplined, flexible and collaborative process - an effective MLOps sy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/06_train.ipynb) [06_train.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/06_train.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/07_vocab_gen.ipynb) [07_vocab_gen.ipynb](https://github.com/terrematte/mlops_wandb/blob/main/lesson_sentiment_analysis/07_vocab_gen.ipynb)
+
+## Reference:
+
+Analysis implemented and available at https://github.com/ivanovitchm/mlops/tree/main/lessons/week_09
